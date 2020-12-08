@@ -9,4 +9,4 @@ let createEmployeeRecord = function(row){
   };
 }
 
-let 
+let createEmployeeRecords = function()
