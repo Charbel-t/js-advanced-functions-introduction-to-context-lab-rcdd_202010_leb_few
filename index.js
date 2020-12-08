@@ -15,7 +15,9 @@ let createEmployeeRecords = function(employeeRowData){
   });
 };
 
-let 
+let createTimeInEvent = function(){
+  
+}
 
 
 
