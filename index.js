@@ -37,7 +37,8 @@ let createTimeOutEvent = function(employee,dateStamp){
 
 let hoursWorkedOnDate = function(employee,date){
   let inEvent=employee.timeInEvents.find(e=>e.date===date);
-  let outEvent=employee.timeOutEvents.find(e=>)
+  let outEvent=employee.timeOutEvents.find(e=>e.date===date);
+  
   
 };
 
