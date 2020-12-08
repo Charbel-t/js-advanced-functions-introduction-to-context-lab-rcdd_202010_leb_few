@@ -26,7 +26,10 @@ let createTimeInEvent = function(employee,dateStamp){
 };
 
 let createTimeOutEvent = function(employee,dateStamp){
-  let [date,hour]=
+  let [date,hour]=dateStamp.split(" ");
+  employee.timeOutEvents.push({
+    
+  })
   
   
 };
