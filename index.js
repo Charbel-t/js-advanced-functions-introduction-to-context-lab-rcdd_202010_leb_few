@@ -7,10 +7,15 @@ let createEmployeeRecord = function(row){
     timeInEvents: [],
     timeOutEvents: []
   };
-}
+};
 
 let createEmployeeRecords = function(employeeRowData){
   return employeeRowData.map(function(row){
-    return 
-  })
-}
+    return createEmployeeRecord(row);
+  });
+};
+
+let 
+
+
+
