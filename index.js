@@ -1,1 +1,1 @@
-let 
+let createEmployeeRecord = function()
