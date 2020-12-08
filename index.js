@@ -25,5 +25,9 @@ let createTimeInEvent = function(employee,dateStamp){
   return employee;
 };
 
-let createTimeOutEvent
+let createTimeOutEvent = function(employee,dateStamp){
+  
+  
+  
+};
 
